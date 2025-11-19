@@ -69,7 +69,7 @@ test:
     accessions: "low"
     entrez_convert: "low"
     find_datasets: "low"
-    step_summary: ""
+    step_summary: "low"
     get_entrez_ids: "low"
   service_tier:
     default: "flex"
@@ -156,7 +156,7 @@ prod:
     accessions: "low"
     entrez_convert: "low"
     find_datasets: "low"
-    step_summary: ""
+    step_summary: "low"
     get_entrez_ids: "low"
   service_tier:
     default: "flex"
@@ -204,6 +204,6 @@ claude:
     accessions: ""
     entrez_convert: ""
     find_datasets: ""
-    step_summary: ""
+    step_summary: "low"
   service_tier:
     default: "default"
